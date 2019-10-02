@@ -26,7 +26,7 @@ Download the `publish` directory and run setup.exe.
 1. Close Outlook.
 1. Hit `Windows Key` + `R` on your keyboard.
 1. In the Run box, enter `%appata%\browlry\SentFolderByFrom`.
-1. Delete appconfig.bin.
+1. Delete `appconfig.bin`.
 1. Repeat the steps in the [Usage](#Usage) section.
 
 # Uninstall
