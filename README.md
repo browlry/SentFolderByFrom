@@ -11,7 +11,7 @@ However, items sent from a delegated account will appear in the delegate's prima
 This add-in works around that issue by moving items to the Sent Items folder you designated for that "From" address.
 
 # Installation
-See the [Releases](https://github.com/browlry/SentFolderByFrom/releases) page to donwload and install the latest version.
+See the [Releases](https://github.com/browlry/SentFolderByFrom/releases) page to download and install the latest version.
 
 # Usage
 1. Compose a new email message in Outlook.
