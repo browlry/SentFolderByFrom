@@ -17,9 +17,18 @@ See the [Releases](https://github.com/browlry/SentFolderByFrom/releases) page to
 1. Compose a new email message in Outlook.
 1. If needed, go to `Options` > `Show Fields` > `From` to unhide the "From" field.
 1. Select a From address *other* than your primary email address.
+    
+    ![Screenshot of From drop-down in Outlook](https://github.com/browlry/SentFolderByFrom/blob/master/Screenshots/OutlookSelectFromAddress.png)
+    
 1. Send the email.
 1. After the item syncs to your Sent Items folder, a message appears: "Click OK to select the 'Sent Items' folder for items sent from test@example.com". Click "OK".
+    
+    ![Screenshot of confirmation message](https://github.com/browlry/SentFolderByFrom/blob/master/Screenshots/SentFolderByFromConfirmation.png)
+    
 1. The Select Folder dialog appears. Click the folder where you want items sent from this address to be saved. Click OK.
+
+    ![Screen shot of Outlook's Select Folder dialog](https://github.com/browlry/SentFolderByFrom/blob/master/Screenshots/OutlookSelectFolderDialog.png)
+    
 1. The item is moved to the folder you selected. In the future, items sent from test@example.com will be saved to this folder automatically, with no confirmation messages.
 
 # Oh no, I clicked the wrong folder! How do I get it to ask me for a folder again?
