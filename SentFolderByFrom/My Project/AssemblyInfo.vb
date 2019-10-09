@@ -9,8 +9,8 @@ Imports System.Security
 
 ' Review the values of the assembly attributes
 
-<Assembly: AssemblyTitle("SentFolderByFrom")> 
-<Assembly: AssemblyDescription("")> 
+<Assembly: AssemblyTitle("SentFolderByFrom")>
+<Assembly: AssemblyDescription("Choose a Sent Items folder for each From address.")>
 <Assembly: AssemblyCompany("")> 
 <Assembly: AssemblyProduct("SentFolderByFrom")> 
 <Assembly: AssemblyCopyright("Copyright ©  2019")> 
